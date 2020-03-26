@@ -18,7 +18,7 @@
 
 ### Instalación 🔧
 
-- Tendran que instalar los packages necesarios para funcionalidad del sistema con el comando
+- Instalar los packages necesarios para funcionalidad del sistema con el comando
 
 ```
 composer install
