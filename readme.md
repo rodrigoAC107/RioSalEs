@@ -46,7 +46,7 @@ php artisan serve
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Herramientas creada para el proyecto_
 
 * [Laravel](https://laravel.com) - El framework web usado
 * [MySQL] - Gestor de base de datos
