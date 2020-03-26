@@ -43,3 +43,12 @@ php artisan migrate --seed
 ```
 php artisan serve
 ```
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Laravel] - El framework web usado
+* [MySQL] - Gestor de base de datos
+* [JavaScript / JQuery] - Usado para activar camara y algunas peticiones con AJAX.
+* [Google Charts](https://developers.google.com/chart) - Generar los graficos en el sistema.
